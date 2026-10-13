@@ -1,0 +1,2 @@
+# UtauTTSVoicevoxProxy
+UtauTTSとVoicevoxの間で互換を生むための中継サーバー
