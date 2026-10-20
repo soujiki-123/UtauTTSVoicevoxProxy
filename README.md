@@ -1,7 +1,13 @@
 # UtauTTSVoicevoxProxy
 UtauTTSとVoicevoxの間で互換を生むための中継サーバー
 
-utauTTS v1.5.4 に対応\
+ymm4のリクエストと互換を持たせている　が、\
+アクセントフレーズのAPIはUtauTTSにないため\
+入力を失わないためのプレースホルダーにしてる部分がある。
+
+コードはAIちゃんに書かせた
+
+utauTTS v1.5.4 とかに対応\
 今後仕様が大きく変更されるかも
 
 windows11 あとx86-64のみ
